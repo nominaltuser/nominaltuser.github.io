@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-06-11T13:43:06">
+	<shop>
+		<name>VOVSUDA</name>
+		<company>ООО «БЬЮТИ ЭНД ХЕЛС»</company>
+		<url>https://vovsuda.com/</url>
+		<categories>
+			<category id="1">Аксессуары</category>
+			<category id="2">Блузки и рубашки</category>
+			<category id="3">Брюки и шорты</category>
+			<category id="4">Верхняя одежда</category>
+			<category id="5">Жакеты и жилеты</category>
+			<category id="6">Платья</category>
+			<category id="7">Трикотаж</category>
+			<category id="8">Футболки и топы</category>
+			<category id="9">Юбки</category>
+		</categories>
+		<offers>
+			<offer available="true" id="RSRT24-SB9">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/964/9zkbiu0rrkdv3m1vtwgu5zfs9xbeg5cx/1266_1535_2/8aBbAB9vOc.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/245/op1csu3cfjmqybun0s0mkg6v671pdmnz/1266_1535_2/2DrJyYUJsl.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/458/7mewaz7lc25gujxkgicbw88qwi57cp2e/1266_1535_2/FNgPtBVet8.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/82c/w3hatbyzdoecp2w7jxano7ggm1ddufec/1266_1535_2/I5Ccy674f3.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/64c/j2x93vuhkjgm12wewvvw0uf42wfm3iuw/1266_1535_2/1hdCbcnHBh.jpg</picture>
+				<name>Блузка с вырезом капля</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/bluzka-s-vyrezom-kaplya/</url>
+				<price>14590</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Жемчужный цвет, изящные рукава с манжетами на завязках и аккуратный вырез в форме капли. Эта шелковая блуза — настоящее воплощение роскошного образа. За счет состава материала не мнется. Универсальный крой подходит под любой тип фигуры. Сочетайте с юбками, джинсами или брюками.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-SB5">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6f7/20nfoxneh5uf30wjo5d6o2nc9anue331/1266_1535_2/cmjlcnfU7p.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/797/cvpm94q5ti5hl9apqn0up8z05rtylf1c/1266_1535_2/iDmOlYpSHI.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/e4b/7967qapeu6ox9nmomgulonuqaqwue7aa/1266_1535_2/KKaBEj7lat.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/ede/ecqggyp4594v1k17171a9b68igoijkb0/1266_1535_2/fD6mkxb6Pb.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b7f/bmloqnhawruuf91l71fbd9vgqxqxubhk/1266_1535_2/yVegtd2zAt.jpg</picture>
+				<name>Блузка шелковая без рукавов</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/bluzka-shelkovaya-bez-rukavov/</url>
+				<price>16400</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Шелковая блузка без рукавов с планкой и невысокой стойкой идеально подходит в качестве самостоятельного верха или в сочетании с жакетом или кардиганом.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="FW23-36SB">
+				<picture>https://vovsuda.com/upload/iblock/5cb/3xgc7af369suzulyeqal09u8f5p071sh/4EqT03chmN.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/717/nwa6oq7tz8nrcf5tncx1l3dtzb3u93x2/jRpFW0dwY6.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/9c7/3ijcha21zsdkoic2etqb2df0bgxu5bkl/DLNvoTr49a.jpg</picture>
+				<name>Блузка с объёмными рукавами на завязках</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/bluzka-s-obyemnymi-rukavami-na-zavyazkakh/</url>
+				<price>13990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Блузка с объемными рукавами и с затягивающимися кулисками – настоящее открытие для вечерних и коктейльных выходов. Изготовлена из струящейся ткани графитого цвета с благородным блеском. Сочетайте с юбкой из той же ткани, создавая элегантный и стильный вечерний костюм или с брюками для более расслабленного и повседневного образа.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="FW23-38J">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/0cf/3322fhc3gamuuma2bossowjl8j1qt5vx/1266_1535_2/jjJHaNubvC.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/de0/i641selujd7hcei1c0099w46u1r5zp03/Z6sW3Y7ey7.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b2b/h5qo19mehqt2oqxxwr40w4v90cpyqfmp/OMKWok8QW9.jpg</picture>
+				<name>Блузка-накидка из шелковой органзы</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/bluzka-nakidka-iz-shelkovoy-organzy/</url>
+				<price>18900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Блузка-накидка из шелковой органзы молочного цвета – воплощение изящества и элегантности. Полупрозрачная ткань придает образу воздушность и легкость, идеально комбинируется с вечерним платьем или стильными брюками. Добавьте изысканности в свой гардероб с помощью этой блузки, которая притягивает взгляды и создает неповторимый образ.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-08SB">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/765/jtfso1m8ilakuqvba2ynyg76gmqp75iv/1266_1535_2/OvhcbyqhTO.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/34d/fp067yfzgu7zthie5tzgs60q2do3yokv/NURYq5vVML.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/358/nt3heknhzety7cijt5s7onhacbo5br8g/bSp44RMq3q.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/6d5/47ivbr802tyza73128upuml3kvfqlf9m/SeYpIAd0p8.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/580/ar0pa22bfvmdnn46bd6tzsv8dkox0ady/7QRxMVPqbU.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/0dd/230yewcnmiqmerlhhxq00q5uh265zv04/Fxp8lIlQR3.jpg</picture>
+				<name>Блузка из шелка с воротником стойкой</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/bluzka-iz-shelka-s-vorotnikom-stoykoy/</url>
+				<price>19700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Благородный жемчужный цвет, изящные рукава с манжетами и сдержанный воротник-стойка. Эта шелковая блуза — настоящее воплощение современной роскоши. Незабываемо нежное прикосновение натурального шелка. Пуговицы из Австралийского перламутра; Натуральный шелк меньше мнется, благодаря небольшому добавлению эластана Универсальный крой подходит под любой тип фигуры.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-06SB">
+				<picture>https://vovsuda.com/upload/iblock/8b2/k42dh5f2kmttio3vslybjg1wj6qcu27f/zi6so1E0Ak.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/8b3/odx1x6tn9zxz1nz71to09ymdjxci9a1t/WiRtAmg0ic.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/c39/frm3ry2o8gpw78wyhn6eelkfi8vcq0d5/ivnpwjFTni.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/31e/e88tdyast7unw8udga488jklqczmmli8/c2uLkPe8wD.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/1fd/qh6hzuli6jc2yxwz02rruqqn41c5mqqg/RCBAAKna3w.jpg</picture>
+				<name>Рубашка свободного кроя с крыльями</name>
+				<url>https://vovsuda.com/catalog/bluzki-i-rubashki/rubashka-svobodnogo-kroya-s-krylyami/</url>
+				<price>9900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<description>Рубашка с крыльями Даже строгая прямая рубашка может окрылять, если в ней есть правильные детали. И в нашей рубашке они есть. По всей высоте классического свободного кроя мы симметрично расположили две дополнительные планки. Эти декоративные элементы напоминают крылышки, а еще визуально сужают силуэт и стройнят. Нескучная классика: носите ее в офис с брюками, джинсами и юбками. Или возьмите с собой в отпуск, чтобы дополнить стильные пляжные образы. — Хлопок мнется меньше, благодаря добавлению эластана и полиамида; — Базовая рубашка с деликатной изюминкой; — Дополнительная планка скрывает пуговицы — рубашка выглядит еще элегантнее.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-65SH">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/884/userxb89muu2vy6msnih9gl8dt96h5nm/1266_1535_2/6QafSysZt5.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d66/okwvs62ituz74vsfr0f4elf945el0f0a/1266_1535_2/IOYZoVczKg.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/731/r9gvv698y24e3sgmup3ov99jb714f5zl/1266_1535_2/JYC3F416JA.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/3a2/tz1kvwqt09exo76l7ny3e67h3eebizw6/1266_1535_2/AOKwaKgTVS.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d8d/c3z8g5i2kgoukhml2jwqfuq2yuvidd4m/1266_1535_2/k7KrwG84qg.jpg</picture>
+				<name>Бермуды</name>
+				<url>https://vovsuda.com/catalog/bryuki-i-shorty/bermudy/</url>
+				<price>12900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<description>Классические бермуды со складками и стрелками — отличный выбор для теплого сезона. Их универсальная длина до колена, пояс и средняя посадка делают эту модель стильной и комфортной. Сочетайте с жакетом из этой же ткани для завершенного образа.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-30P">
+				<picture>https://vovsuda.com/upload/iblock/b2f/jsjjxq8hdz3ko5s9b3exgjy4ohruehz9/oftSGPaesy.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/3bf/7gaqsy4f3zqpvj17q9w835wd4qtl72qq/JZWWWuWh8P.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/558/ne5w1cl4kcsnli8wlongeukktelc26b1/Qn6AH4nGRi.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/cce/32ah3sxyqr0r7stm23eknor2pxw0qz2d/1266_1535_2/QswqUfu2hK.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/c32/jcok58eltu72gy8mnfa5dnmr0la7dxcv/5CDwteyoyc.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/90e/9opksoa64u9fkt7c2yurjomlga0si9l3/GF8ldJJ5rR.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/06b/m4xhw766ew87rnbra7bxfhyjg1xjawb0/qVUyKm0SIm.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/169/j1j2e1zteuvowvwt1wkwd3u8qsohxjqi/XfyqWyb0bI.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b7b/o0zu80aetra3pbh2hept227nh5c1wqk2/1266_1535_2/7IB0G7IOy0.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/503/9l2ny37ddslqpayvlvefgmnznsvpm95k/0Ae1o9X5at.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/944/v0ukqsor4e27ix8v5qn0vhw2onk1rkq2/LOf12stzwu.jpg</picture>
+				<name>Брюки из шерсти</name>
+				<url>https://vovsuda.com/catalog/bryuki-i-shorty/bryuki-iz-shersti/</url>
+				<price>9990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<description>Мягкие, струящиеся трикотажные брюки, которые сделают вашу зиму комфортной и приятной. Шерсть мериноса согреет даже в самые суровые морозы — смело отправляйтесь в них на каток, новогоднюю ярмарку или за город. Вам точно будет тепло и удобно. А чтобы не ломать голову над стильными зимними образами, подберите к брюкам свитер из аналогичной ткани. — Шерстяной трикотаж лучше держит форму, благодаря добавлению вискозы; — Брюки на широкой, мягкой резинке; — Носите как часть костюма или сочетайте с вещами из вашего гардероба.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-04P">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/3f1/heasuozf27i2ra6llmzl1cd7vrtxatc5/1266_1535_2/n7SEoO1Klr.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/8f1/4omi4s0jxtqxf60aqomo9fz1wfwfce41/57ije43u6Y.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b78/4it1sh49csftqubq9uyn3y3cf5plrf5j/GZnCE8NFiN.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/f7a/plrn478hk70m6204rwscx25jk1zit00t/LxHW2KkzdB.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/56e/n9b6li3552laf6vgnjg06mi0k40tpu1y/Ac8Cgv56LL.jpg</picture>
+				<name>Брюки прямые укороченные</name>
+				<url>https://vovsuda.com/catalog/bryuki-i-shorty/bryuki-pryamye-ukorochennye/</url>
+				<price>15800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<description>Брюки для тех, кто мечтает не только о красивой, но и удобной одежде. Если в течение дня вы жонглируете делами и встречами. Если цените качество, комфорт и элегантность простых форм. Если активны, постоянно в движении, но хотите выглядеть безупречно. Поздравляем, вы нашли свои идеальные брюки! — Одинаково хорошо сочетаются и с кедами, и с лодочкой на шпильке. Одни брюки — десятки образов на любой случай; — Натуральная шерстяная ткань; — Подберите жакет из той же ткани, чтобы собрать отличный повседневный костюм в стиле sport casual.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-03P">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/3e2/gepaj5wf9mqbe4kjd3l716w1s8wvxlwd/1266_1535_2/1oiCj90Nm7.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/da6/ooffgc10dz949rytiubxw94wptet5ogm/e7RbcmOsD3.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/a2f/onoltxrikblunkw1nbfty1v4d3xw3qnr/1266_1535_2/gF4CNnpL7z.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b01/9k1pddquogtadpugsogmd7r7eeyyao3y/PgrepVczIc.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/efd/7qjeud27vghdefymg8w2qj346r3dcsih/1266_1535_2/UGHLn5O9oL.jpg</picture>
+				<name>Брюки классические</name>
+				<url>https://vovsuda.com/catalog/bryuki-i-shorty/bryuki-klassicheskie/</url>
+				<price>16400</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<description>Умеренное облегание сверху и легкий клеш от колена — формула идеальных прямых брюк, которые сделают ваши ноги бесконечно длинными и стройными. Добавьте к этим брюкам жакет или жилет из той же ткани и вам всегда будет «что надеть» — Легко вписать в любой образ от строгого офисного до расслабленного casual; — Эстетичный пояс скрывает молнию и пуговицы; — Качественная костюмная ткань и подкладка оберегают от лишнего рельефа.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-24OW">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f44/rrzokl4of5aszfxcla8ei9i15y7uqbm6/1266_1535_2/p4j3nRT7FE.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/108/8xtnsmjd2lm9kngb9lr33k3xhy9h8pgl/1266_1535_2/XOeRzJijfw.jpg</picture>
+				<name>Тренч укороченный из итальянского хлопка</name>
+				<url>https://vovsuda.com/catalog/verkhnyaya-odezhda/trench-ukorochennyy-iz-italyanskogo-khlopka/</url>
+				<price>32800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<description>Базовый тренч в укороченном варианте. Больше не нужно переживать за подол плаща. Он не испачкается в осенних лужах и не прищемится дверцей автомобиля. А свободный крой позволяет надевать тренч поверх теплого свитера, чтобы наслаждаться долгими осенними прогулками. — Вариант канонического тренча адаптирован под быстрый ритм современной жизни; — Плотный итальянский хлопок; — Кокетка на спинке, воротник с отложными лацканами, погоны и другие детали создают эффект многослойности.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-23OW">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f48/lmxfrn3qtvj5cbm6r6n12spicb6jwcht/1266_1535_2/VB0NDEfe7Z.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/280/po9n86mpaaalw47k7wiwgpxz42l86e47/1266_1535_2/2Nsfq2ERVG.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/79c/vmerpuoitcujqlpwep3wy0g8swqp51f3/1266_1535_2/mDfI7J1maM.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/61d/xn5af178jazf6clrw1tjrphatxijb7ux/1266_1535_2/WzKkxoQjED.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f66/za8ohr0mf348f8x8cea4j2q1vv5urkfs/1266_1535_2/9ZzsbUb9PQ.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/140/nh42rewz0h7qhbpvhabill4qfomcvelh/1266_1535_2/5VHKsSvxX9.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/210/oy4s0jjsv4icfau9d39ewbbfq0i37fgg/1266_1535_2/ZveWdNeDxi.jpg</picture>
+				<name>Пальто из шерсти с поясом</name>
+				<url>https://vovsuda.com/catalog/verkhnyaya-odezhda/palto-iz-shersti-s-poyasom/</url>
+				<price>20760</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<description>Пальто-халат лаконичного кроя и удобной длины. Для этой модели мы использовали плотную пальтовую ткань из натуральной шерсти без примесей. Широкая пройма рукава позволяет комфортно носить это пальто поверх жакетов и теплых объемных свитеров. Элегантный, женственный вариант верхней одежды, который будет радовать вас даже в самую холодную осеннюю погоду. — Практичная модель пальто с удобными карманами; — Эффектно выглядит и с поясом, и без него; — Стилистически нейтральное пальто — отличная инвестиция в базовый гардероб.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-46J">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/484/ts0nubqc4rx4lqpik0fp4utuqgzueupk/1266_1535_2/AD3OGAUyWR.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/5e4/33pof07vf4klvy60vjqkqo66x8rccd0f/1266_1535_2/ue4Zv3UYxr.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/523/fnx1c2kczg74b4po7dp8o3yh27d18bp4/1266_1535_2/3FZFFqGbgn.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/cc4/0pcxhtyn5o1lro8cf73gcicesxt5acj1/1266_1535_2/pDnwes9uba.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/5ae/wda2s2zmlkpf296nb3bjdcgmk3185qao/1266_1535_2/e55LcIu65U.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/cd1/5tyndmnx79tmg56fmpisiimjlgpc2m1c/1266_1535_2/4dl7ehlw5d.jpg</picture>
+				<name>Жакет из льна</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhaket-iz-lna/</url>
+				<price>19700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Свободный льняной жакет с без лацканов и золотистой застежкой, без пуговиц — часть нашего костюма-двойки с бермудами. Плотный натуральный лён с добавлением вискозы хорошо держит форму. Сделано в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-45OW">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/5c9/khbivmtaf3ksbl5z7wg50l9mae72lyui/1266_1535_2/zPOfEWyNKy.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b92/4v6migwazy48e48k8f3tq4mqw4245lu2/5MdzQZ5jp8.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/24a/23y0u5v1bi0723loghswg9wp4jh8dyrg/5uPbQxqiKY.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/3da/gwz6824z6qyev9cj6bnppmq215ehih2q/b161wEot1E.jpg</picture>
+				<name>Жакет-кейп с поясом</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhaket-keyp-s-poyasom/</url>
+				<price>31790</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Жакет-кейп молочного цвета из невероятно уютной ткани из шерсти с поясом из основной ткани. Прекрасно подойдет для ранней весны и прохладного лета. Расстегивающиеся рукава превращают жакет в Кейп, добавляя элегантности в образ.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-50J">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f9a/22738l5x236ulkwm48lbpmdpqzexw5jt/1266_1535_2/2a1MRcvqSl.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/7b8/x94nt7hd856e1b9gkhwuiwxq0e7d2e4r/T7RunZIhZJ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/84f/ceecgbsrvm959xhuuqh7h1zluainc0no/bDfmfgg37E.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/3b4/ydw5tcqd2axl1yydendkx9uv3as4d320/ejBzzxcQn3.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/5e9/wkgahcx4410w7gbm2vngv5trq7ulhfzr/Wo51PoyFtB.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/5e3/agr5ay7yfffc8y5ln2nk6ehlx3hbgf6i/aH4N4tQITJ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/7a8/qnwlmr444bw7z177yk33w2ywb1p80xca/CKWZv4vII0.jpg</picture>
+				<name>Жакет укороченный на молнии</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhaket-ukorochennyy-na-molnii/</url>
+				<price>15290</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Укороченный жакет из хлопка на молнии. Сложно представить более универсальную и функциональную модель в гардеробе. Отлично сочетается в блузками, футболками. Дополняйте образ юбкой из такой же ткани или джинсами для создания стильных образов. Подкладка из 100% вискозы очень приятна к телу. А основная ткань, благодаря эластану, практически не мнется, что позволит выглядеть аккуратно в течение всего дня.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-J7">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/95f/6kp8g86tj98y77erx4kl22d8as40e5gs/1266_1535_2/P4LYMLUp3E.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/2c9/6je0lc6e8npbydfl35wrb7eob5eqytyy/KHyNVgbMaG.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/469/sa6j4x0y2y4ecabea2a6jhb15jwlfxej/mmFzWzOM75.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/94d/lx103lirl42pkvgm92oe4i5i6wpzdpjd/ziggZaJqi5.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b4a/3jksh9q2dxf46976822jctn1uv8d210h/9EzEq6GHh5.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/408/cshev2jyeww6mbq9d389t2oaizsa7x09/NiS67JcIKr.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/487/ph0lyh4cv8q9pjg4ge4rt1064h9i9pck/TJdqwLo61p.jpg</picture>
+				<name>Жилет удлиненный с поясом и карманами</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhilet-udlinennyy-s-poyasom-i-karmanami/</url>
+				<price>14790</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Удлиненный жилет с накладными карманами и съемным поясом идеально подойдет как для делового, так и повседневного образа. Изготовлен из шерсти с добавлением эластана, обладает средней степенью сминаемости, что делает его удобным и практичным. Комбинируйте его с классической рубашкой, юбкой или брюками для офисного стиля, или с футболкой и кедами для более легкого и непринужденного образа на каждый день. Жилет станет стильным и универсальным дополнением к вашему гардеробу. Идеально сочетается с юбкой из нашей коллекции.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-11J">
+				<picture>https://vovsuda.com/upload/iblock/891/x5zggv5gw93f3xy0mim7puvvi1kxpohs/vxJJSEid8g.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/e2f/adkq2i11sg2j0bpnt3phuaqqqt6na1qa/qR3qFI1UDm.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/97b/67ap5e860eifsf3q1q233e6g3nkxw6ge/fnvoOSYhkZ.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/bd8/z6elgvurytq907d17togou5fflz48p32/vldYtzOiu8.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/be2/motp0dfg98wt9ldklcql1ch4zsig55j8/LACQaDhxOo.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/5c4/g0tt4hcuupkh5jn731j4wqx5drkkqg7a/yIqCQpbN7V.jpeg</picture>
+				<name>Жилет классический</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhilet-klassicheskiy/</url>
+				<price>26700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Классический костюмный жилет — это не только составляющая костюма-тройки. Это самодостаточный и стильный элемент вашего гардероба. Носите его поверх рубашки или базовой футболки, надевайте под жакет. А теплыми вечерами рискните и наденьте жилет как самостоятельный верх. — Хлястик сзади обеспечивает идеальную посадку по талии; — Вдохновит на десятки интересных образов; — Плотная ткань и качественная подкладка — обязательная составляющая правильного классического костюма.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-09J">
+				<picture>https://vovsuda.com/upload/iblock/508/2yvmd9wb3ztx0fyamidlojjirwoj94ml/8grS2gyrqm.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/939/5srtr14wknjxotk8s13fjig6ur9ii8iu/FofbN65SE2.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/3ac/8ph1y225dvois6ro2harly0jjdtzosg7/NlTS6UA1LX.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/379/sr58igvkv61tpj2nwn9d3dqeja6l00cp/B4jWWxu62F.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/041/0v6ymg393hgky01fmmnc9rtz5e6xxbzn/quUrtBYDWZ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/ef9/6xoubbzepdsn2ltrgfc9eeejggk0n438/qT4OD5yBNW.jpeg</picture>
+				<name>Жакет классический однобортный</name>
+				<url>https://vovsuda.com/catalog/zhakety-i-zhilety/zhaket-klassicheskiy-odnobortnyy/</url>
+				<price>26700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<description>Однобортный жакет с ненавязчивым акцентом на талии — синоним слову «вечность» в вашем гардеробе. Создает правильные пропорции и гарантированно вписывается в любой гардероб. Доступна юбка и брюки из той же ткани. Для эффекта костюма-тройки сочетайте с жилетом. Благодаря плотной и качественной костюмной ткани, жакет будет радовать вас много сезонов; Впишется даже в расслабленные или спортивные образы; Базовый и благородный серый цвет.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-64D">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/88e/qql1zcksfihcpmvehofyvtkajj073ld1/1266_1535_2/oVcebVETS8.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/32f/q5axpivux7mg2ymln6avmr6u8b8lejer/1266_1535_2/EIN3FpzrIR.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/e1d/bmtblknk2h57rso90fczfu7jeu8aw62t/1266_1535_2/ypNUeMufCs.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6d5/hpiozay5eqmmmg2bkyiwx9oijotcdq3b/1266_1535_2/HMEgFZ5iVE.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d57/uxh0s8tjbd7y9ihxer7goggka0u6m10m/1266_1535_2/pe9YKBkzDy.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6ae/fg47lwxzjfdh3z1p0z7rhm0sww02y03f/1266_1535_2/gK0Ko0BJuf.jpg</picture>
+				<name>Платье на тонких бретелях с открытой спиной</name>
+				<url>https://vovsuda.com/catalog/platya/plate-na-tonkikh-bretelyakh-s-otkrytoy-spinoy/</url>
+				<price>15970</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Лаконичное, струящееся платье на тонких бретелях с открытой спиной из вискозы идеально подходит для летних дней и создания легкого настроения. Тонкие ленты позволяют регулировать силуэт, превращая его из приталенного в слегка расслабленный и прямой. RESORT’24 | Лимитированная коллекция Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-D3">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b01/0c21tyhhgg1o1kaczhk95xo5nkbj0ho3/1266_1535_2/nqkWzzjilq.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/54e/z6dn83nwm498axbyxb2lu3u55zsszw5z/1266_1535_2/EIezfNN0BG.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f0b/r6azk1q070j9w8cuoj0o5qh328dk1653/1266_1535_2/CqywHY2Hfj.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/716/07wbxdh8xhx8ic4tlughirfexfu9or1o/1266_1535_2/PifhP9dz0N.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f81/uwbkoa1hc1d0pg9jqv1ye6xjr3rz1rf1/1266_1535_2/Wt0YovJk4m.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/cf0/fpho2c0bw05epzmcpc3ucibz6b5f5ydx/1266_1535_2/kR7SHrTUkh.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6e6/jtljez2w91cx3gtyqvadvzivy2e2mcp0/1266_1535_2/dcYDMnd0Li.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/218/ib8k01src4p3xfneg07ht3ic4lfu03ia/1266_1535_2/yVki8eLOKT.jpg</picture>
+				<name>Платье мини с коротким рукавом</name>
+				<url>https://vovsuda.com/catalog/platya/plate-mini-s-korotkim-rukavom/</url>
+				<price>17770</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Нежное и лаконичное платье длинны мини из фактурной вискозы и обработкой шелком снизу. Красивый приталенный силуэт, аккуратные рукава и вытачки — все это придает фигуре утонченный вид. RESORT’24 | Лимитированная коллекция Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-D12">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/bd3/no87h7mmws67x0sd5nbbuvjdzylodvv9/1266_1535_2/d1F6NeJHfS.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f19/zw571ut8fgkpbnvipousnaeunpi2xsqs/1266_1535_2/oPGw5Lot7P.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/c18/d344cri4034tpxv48i5zwgtpa0f3ybgl/1266_1535_2/l5D1SDCjW2.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/f6b/tivsp5ciodanla8vu2dysk5v6fqebgjo/1266_1535_2/0z8IBRMBhO.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/234/36fkdeehm8dvv17rhpe6nq7r4u558hmk/1266_1535_2/GeDXBu9XMM.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/1c7/oi0cju5lyctph88aysyf2pn7xbe4svoa/1266_1535_2/JplSWg4fEy.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/e76/e3tuybh9u5d98o6c7nge3goj7eac944s/1266_1535_2/AwRw9tzD8z.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/a61/ivp02u4gdybe6mbxu6vfu0cjxpmqf5z1/1266_1535_2/PUHB1P9nIT.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/89d/bnuau6hjtxm605841tcc1ev9mcry08v1/1266_1535_2/kc7MSP58aC.jpg</picture>
+				<name>Платье мини с открытыми плечами</name>
+				<url>https://vovsuda.com/catalog/platya/plate-mini-s-otkrytymi-plechami/</url>
+				<price>17700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Лаконичное и универсальное платье мини А силуэта с вытачками на груди. Отделка низа платья натуральным шелком добавляет платью нежности. Застегивается на молнию сзади. Без подкладки. RESORT’24 | Лимитированная коллекция Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-D1">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/5e7/i24ttnwksctul0ylh830jhxdxj5vq3qw/1266_1535_2/nGV8FImdlf.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/179/6nc0zw30i3ywirn90o1f9sle2ir55s4j/1266_1535_2/xkiAMyWL9o.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/917/5njhty5egx260zq9d7cik8984iit0101/1266_1535_2/JjaKnqVWMY.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/bab/vixjyfwgolnu6j49mpp4e924np1tz2rq/1266_1535_2/lCwbgDKNzA.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/06d/fwtlqgktn52oqb47dsuvd8yqq4hnl0be/1266_1535_2/fqXN9XM9bb.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/602/1domanov83bqm20tsd3l8xau1i59xcs9/1266_1535_2/mhxpLFuJwE.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/7c6/p6c297ouhgyg1fuwb4mf1tobxt0y6sgf/1266_1535_2/wPUugzjCHE.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/62a/my22ppizbz57i3rp386f8jm530hicfbn/1266_1535_2/SraflxtJkf.jpg</picture>
+				<name>Сарафан из шёлка двусторонний</name>
+				<url>https://vovsuda.com/catalog/platya/sarafan-iz-shyelka-dvustoronniy/</url>
+				<price>39970</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Сарафан из струящегося легкого шелка с открытой спиной. В нем можно почувствовать себя одинаково роскошно на побережье или на городских улицах. Свободный силуэт, завязки в виде бутонов цветка и открытая спина создают образ, который вызовет восхищение. Особенность и неповторимость в том, что модель двусторонняя. Образ в голубом или насыщенном синем? Выбирать только вам! RESORT’24 | Лимитированная коллекция Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-51D">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/ac6/l1smik9amexf73elwnr3lex3kn4pvuza/1266_1535_2/t2Xi5KJGW0.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/ef3/oqt8ftp2pvpy6m8g48t1ytfdnsxylu4q/1266_1535_2/80gBpFPuLU.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/56d/kg2yz09aet9qc5xp24ugxk4thrmzwfe6/1266_1535_2/7r6CHsU0z3.jpg</picture>
+				<name>Платье макси с поясом</name>
+				<url>https://vovsuda.com/catalog/platya/plate-maksi-s-poyasom/</url>
+				<price>21600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Платье макси базового песочного цвета с шлицей сзади и поясом из основной ткани — идеальный выбор для будней и база для создания вечерних образов. Дополняйте стильной обувью и аксессуарами. Не бойтесь экспериментировать и создавать свой уникальный стиль каждый день!</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-52D">
+				<picture>https://vovsuda.com/upload/iblock/1c6/3x6xrijzvnpb379up2pjh0szx30mfrqm/Zv2aY02PIk.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/a4c/rdg6d64gta0z7v09mroq4ius152607ul/awFDdQNGb0.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/e6a/zt9y7ih7lvz0lk5povp871vn0m1w1d8i/Oh6g51SYpx.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/943/iv9wvzemmhwm3tsii6vf59vovzxtg7x2/UitKKAcemv.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/b12/bilnvf39swmk6ewikyie01hsjv39q9kr/kncnHYUZjY.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/494/qm21sedysfbdkebxc7j71vxep9plvz9l/BWnIS033m4.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/ae5/umf2uwr3laz8tpjodlkbymvwvry1vglx/s0AWXjN6US.jpg</picture>
+				<name>Платье коктейльное</name>
+				<url>https://vovsuda.com/catalog/platya/plate-kokteylnoe/</url>
+				<price>13790</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Платье мини прямое с V образным вырезом с длинным рукавом создано для свиданий, прогулок или обеда с подругой. Дополните яркими или необычными аксессуарами для создания уникального образа или сочетайте с классической обувью для нежных выходов. Выполнено из плотной ткани, обладающей очень низкой сминаемостью.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-53D">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/17a/8b8dao7t4a7ea4g8b3zamyhk1zvd68rd/1266_1535_2/xD7QmI67c2.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/354/pqe86npu1tb3z7adix1mt9nu8qlctz0x/1266_1535_2/c3PRipKue5.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b89/vsyivkwdestylx3wyutz4q2vv4kxgrj8/1266_1535_2/Z4DzsMpx0z.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/34d/id0vi9f72bjycx8z0a1wtbrpadwn4jk3/1266_1535_2/3oW60NQnPr.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/670/l0aabqrgqwbaybk092yw2jftm70cvp5y/1266_1535_2/tzgw5KRQHa.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/329/3mbgia706sodl22qphby0jtd590mnkx9/1266_1535_2/ezcraFPWKR.jpg</picture>
+				<name>Платье мини</name>
+				<url>https://vovsuda.com/catalog/platya/plate-mini/</url>
+				<price>16490</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Платье мини с встречной складкой спереди и стойким воротником — это идеальный выбор для любого повода: как для повседневных прогулок, так и для особых случаев. Модель платья выполнена из плотной ткани с минимальной сминаемостью и с идеальной посадкой по фигуре, подчеркнет все достоинства и скроет недостатки. А-силуэт платья придает ему нежность и элегантность, делая его непременным атрибутом любого гардероба. Стилизуйте съемными воротничками или ремнем (в комплект не входят) для создания особенных образов. Молния сзади позволяет его легко надевать и снимать, не боясь испачкать тоном. Длина изделия — 88 см, длина рукава — 64 см.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-18D">
+				<picture>https://vovsuda.com/upload/iblock/f52/a15ulqg34ut810o6el1grcztw11lxvao/B2o9hzokCf.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/380/82b4cc80xmorao7z55e709vdq2daxwwm/pcw4nAGkvL.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/384/02hurvqckret9wbf8w8ekbui76qluu46/Gy5J9sjc52.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/ef0/78wx1uugflgvwloymryr6p9tj50g3k53/IS2wGpbqId.jpeg</picture>
+				<name>Платье классическое</name>
+				<url>https://vovsuda.com/catalog/platya/plate-klassicheskoe/</url>
+				<price>14990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>6</categoryId>
+				<description>Сдержанное, женственное и элегантное черное платье. Плотная ткань и качественная подкладка создают правильную степень прилегания, чтобы подчеркнуть все достоинства фигуры. Длина миди и выдержанное декольте деликатно расставляют акценты, сохраняя комфорт. Платье для настоящей леди, которая хочет выглядеть ослепительно и аристократично. — Платье на запах создает женственный силуэт; — Дополнительный акцент на талии, благодаря металлической застежке; — То самое черное платье, которое должно быть в каждом женском гардеробе.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-56TS">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d21/gjr55c9xrou79cmkf87bzatqqrxda8x8/1266_1535_2/1PMDQxn5yG.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/aea/c533jsycs4eeyfnn3z0k64lszbu2865d/PALudEXcSR.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/bde/10pibcfkdg2c4pno1rvc6jfbkzaa3c06/4aN7qY3Mzk.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/77a/x11rjxjshvo469n7pv68gr1ko247hr9a/sVn9LOyO10.jpg</picture>
+				<name>Базовый лонгслив из холодной вискозы</name>
+				<url>https://vovsuda.com/catalog/trikotazh/bazovyy-longsliv-iz-kholodnoy-viskozy/</url>
+				<price>5900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Базовый лонгслив из тонкой струящейся вискозы. Длинные прямые рукава, чуть приталенный силуэт для создания элегантных и женственных образов. Сочетайте с юбками, джинсами и брюками. Ткань обладает минимальной сминаемостью за счет небольшого добавления эластана, подвижностью и хорошей воздухопроницаемостью. Длина рукава изделия 74 см. Длина изделия 65 см.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-55S-M">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/de9/oibr5rhwkag1njl1uhpxohjqvzv6lsgi/1266_1535_2/c0Mdyq03EN.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6f6/0u7iptvr24o0pht41w8gxzx2wtc157th/1266_1535_2/9nR8Z0ax1z.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/98c/jgzsgm4kjgpbg3irn5bgd1gq9foiib7e/1266_1535_2/aAIi5DVPSH.jpg</picture>
+				<name>Лонгслив с открытым срезом</name>
+				<url>https://vovsuda.com/catalog/trikotazh/longsliv_s_otkrytym_srezom/</url>
+				<price>8900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Лонгслив из тончайшей шерсти — прекрасная базовая и элегантная модель. Длинные обтягивающие рукава, необычный ворот в виде "лодочки" и открытый срез создают красивый и утонченный силуэт. Сочетайте с брюками, юбками или джинсами. Длина рукава изделия 74 см. Длина изделия 65 см.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-55S-GR">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b3b/kzspvcawrntqxbgrrdx2u4m5tdzfv79x/1266_1535_2/NxeCM7Vjpf.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/a52/a8y7y0ewws9n803habadeqqnr70a0r7k/1266_1535_2/aRfTwPr6uT.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/575/3vt6atp4vx5pdkx0eziaveejkdl6vat2/1266_1535_2/qZg874SeEw.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b95/z3h2k880jxkjq7psrdxpyw3glqgbqqx9/1266_1535_2/Pwnu0Pl218.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/6a2/a407dar154aznhexyfnfh47uboh9p0f5/1266_1535_2/wmMDcWoetX.jpg</picture>
+				<name>Лонгслив из тонкой шерсти</name>
+				<url>https://vovsuda.com/catalog/trikotazh/longsliv-iz-tonkoy-shersti/</url>
+				<price>8900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Лонгслив из тончайшей шерсти с добавлением акрила и эластана — прекрасная базовая и элегантная модель. Длинные обтягивающие рукава, необычный ворот в виде «лодочки» создают красивый и утонченный силуэт. Сочетайте с брюками, юбками или джинсами. Длина рукава изделия 74 см. Длина изделия 65 см.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-31S">
+				<picture>https://vovsuda.com/upload/iblock/12b/xhlnyn3rmx0ghsqm7y0xb1g7ny028qyw/mxS6VH6oRZ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/8ea/whtot47mtmvgwdv52kmfz5b49yqj0ayq/7qlcBeqPrU.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/e03/rw0mvbk1birgxn7djnj709acdm2ew1s3/ickJEgC7eM.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/bf8/socur22mptq0eycd65130ndfh8wswme2/S6emEmlnc2.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/148/w00g8407cthq785ot9sjzdalz6dt6qy5/xP7eZba4qw.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/024/ikr9n4bmru2hr8wcr6xzqgrepju1llo7/Nhn3RnaAfc.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/879/sv6ynx5bivsrgz189w7p2hbntrt5d5m9/CT08g7J4Cu.jpg</picture>
+				<name>Свитер с кашемиром</name>
+				<url>https://vovsuda.com/catalog/trikotazh/sviter-s-kashemirom/</url>
+				<price>9990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Объемный и уютный свитер станет вашим другом в холода. Он теплый, но тонкий по текстуре, создает расслабленный силуэт и навевает спокойствие. — Натуральная шерсть и кашемир дополнены вискозой и нейлоном для создания легкого согревающего полотна — Высокий ворот — обязательная деталь для осенне-зимнего сезона — Освежающий белый цвет поднимет настроение в серые будни</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-30S">
+				<picture>https://vovsuda.com/upload/iblock/81c/6rvy4f0osk0hpb23m10cnqje6znh0cpu/Z1YAEUWCsZ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/eef/yr4qwhs1iivh6e0nlmqsjtq4qu0jm11j/4Whqf9Aq7V.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/2a4/qg1w47wxpsh7rzxuu49texllbpiet3dq/IRsL0EX3hX.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/03e/wfovqe0s2b2gch3prhbs0ncwv2r5f1g3/IB1BTJs7pD.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/c50/cc5nmx69kbrvct01ia2xf1hmla0lp5om/dXLtUnKECT.jpeg</picture>
+				<name>Свитер из шерсти с горлом</name>
+				<url>https://vovsuda.com/catalog/trikotazh/sviter-iz-shersti-s-gorlom/</url>
+				<price>9990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Свободный удлиненный свитер с высоким горлом из смесовой шерстяной ткани. Шерсть мериноса в сочетании с вискозой обволакивают нежным и приятным теплом. Этот свитер жизненно необходим для уютных, расслабленных и теплых зимних образов. Подберите брюки из аналогичной ткани и у вас появится любимый теплый трикотажный костюм. — Приятная и мягкая шерстяная ткань; — Базовая расцветка; — Носите как часть костюма или сочетайте с вещами из вашего гардероба.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-15T">
+				<picture>https://vovsuda.com/upload/iblock/2ef/jtzkdzksb4qcueq6onk886kvwbvy8xyi/gC7VHuO64R.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/a59/ao0q1djp3eohopq1j271ofsbjqcju4ro/z8KySGDbD1.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/581/ihxy0yoik97a9vvymuz6bfo2ki8u69as/8p2EobYlL7.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/0a9/6logge33jmymi6br0adk7466vtim08qx/0k41DJCfa4.jpg</picture>
+				<name>Лонгслив плиссе</name>
+				<url>https://vovsuda.com/catalog/trikotazh/longsliv-plisse/</url>
+				<price>9990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>7</categoryId>
+				<description>Лонгслив для праздничного настроения даже в самые серые и будничные дни. Приталенный силуэт с изящными удлиненными рукавами, фактурная плиссированная ткань с мягкими металлическими переливами. Этот лонгслив — подходящая основа для благородного, очень женственного и утонченного образа. — Будьте готовы быть в центре внимания, благодаря необычной фактуре, металлическому блеску и оригинальному крою; — Эффектно выглядит в качестве самостоятельного верха. Комфортно надевать под жакет или жилет; — Не нужно гладить.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-54T-B">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/e54/2tib87gfusyaj0q65f2ijxj56k54u2m3/1266_1535_2/tnO5jUM1Al.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/671/yhulj78r686cdp42p0acrvk5rz237rco/1266_1535_2/l2GmjcWLnd.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/9ba/b6cn5z3k7xt886b9ss4rsga8q7h0xz98/1266_1535_2/khp4OIwKvM.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/fc7/8xszw12p0yvtnalqu4xflok47lonlw6a/1266_1535_2/bJOGByxb98.jpg</picture>
+				<name>Топ из шёлка</name>
+				<url>https://vovsuda.com/catalog/futbolki-i-topy/top-iz-shyelka/</url>
+				<price>5700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>8</categoryId>
+				<description>Прямой топ из тонкого струящегося шёлка — носите его с жакетом или самостоятельно. V-образный вырез и удобная пройма, двойной слой, чтобы снизить прозрачность. Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-57T">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/c64/l48022qcvh1l7oj21jm0e196ubc8nbmj/1266_1535_2/Qsj70Gk876.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/920/7ursz993b1s41aupj21qywj2i5eit9ij/1266_1535_2/0S0Y8w2N6B.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/306/7zl6ydgip51a0jpi1i0ivfsgz7iqwvsc/1266_1535_2/2Jy87QCaRR.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d09/aayf12lgv7u37iig2tqzd385351e2pck/1266_1535_2/z3mRukMjmw.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/87e/ltqbz82314gafzhpbk98hxq25t3jvsti/1266_1535_2/smWXrrLNKA.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/145/i16nted2qg2tghyx70feskv20piarocf/1266_1535_2/Zac3A3g7Jw.jpg</picture>
+				<name>Майка с прямым воротом</name>
+				<url>https://vovsuda.com/catalog/futbolki-i-topy/mayka-s-pryamym-vorotom/</url>
+				<price>4190</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>8</categoryId>
+				<description>Лаконичный топ на бретелях из приятного дышащего трикотажа на основе вискозы. Хорошо прилегает к телу. Надевайте под рубашку, жакет или как самостоятельный верх. Представлен в трех базовых оттенках: коричневый, молочный и черный. Произведено в России.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-49SB">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/8e1/roxgf24ab0zakprvg4h3cfv0mk4917tq/1266_1535_2/5ZQ5kW6VKh.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/d71/cws5617ca67mhwj6e5wswo8che7wejaz/QVhd0yWKcd.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/92b/0f3att5p1k6s1u3dm389pbpmtfhp0fsn/Eya1xZ49UY.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/ac9/d6brie7tj1wjdw9ly58xg1zr56fc2pmi/Bk0fcJuZjo.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/e66/tnm7fz4qwe38v9t8d17f8u2c0tlt2lfg/iUyuILAeR0.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/5b2/1g8pn2k1yrq2ztxvwstnxkyyrgg4uj33/E8hIM4S87l.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/d72/catjd215t7j7xrqdz0nsql75f6jybk8f/4AX3IuD4c2.jpg</picture>
+				<name>Топ укороченный без рукавов</name>
+				<url>https://vovsuda.com/catalog/futbolki-i-topy/top-ukorochennyy-bez-rukavov/</url>
+				<price>4890</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>8</categoryId>
+				<description>Укороченный топ — идеальное базовое дополнение к гардеробу. Лаконичный и аккуратный силуэт подходит для создания стильных образов для любого повода. Изготовленный из вискозы с добавлением эластана, прочный и слегка эластичный, топ почти не мнется. Отлично сочетается с любой юбкой из нашей коллекции.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-25TS">
+				<picture>https://vovsuda.com/upload/iblock/f77/ii5gdr92io2k7g6fnc0k57s7cidx4clx/W4rpfOLkeC.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/a72/rgnaz56yahwln090s18yiuh92r6vzcx5/g4ZvNJzcjM.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/a4d/jun82gkrv412l9r6bht6xlga0nh3brfo/PlNlc9JVCT.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/99d/k4idpd9ouc3wr0czvuggwq3mg81gps70/1266_1535_2/UKn57xwBny.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/704/ivs6cgcq1yosof1v105ibhogmlq2l7vw/jumf8XV3LJ.jpg</picture>
+				<name>Футболка</name>
+				<url>https://vovsuda.com/catalog/futbolki-i-topy/futbolka/</url>
+				<price>2990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>8</categoryId>
+				<description>Базовая футболка посадки Regular. Мы постарались соблюсти все слагаемые идеальной базовой футболки: правильная длина, легкая свобода в крое и качественная, умеренно плотная ткань. Отлично подходит для создания многослойных образов или как фон для акцентных аксессуаров. — Рукава с отворотами; — Базовый крой, правильная длина, натуральная хлопковая ткань; — Держит форму и меньше мнется.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-SK4">
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/b55/3oi28duyndjwri4p1v4k3voe4yopp841/1266_1535_2/K6FA0RJPgk.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/383/90aklk6i1zvi72i2h68phr3j6kb3huts/1266_1535_2/aLrdL4oXPc.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/074/l3a6delivgyu6aoc1nnwkwfqnvnimwts/1266_1535_2/jZF69UFbbt.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/9c0/s56dli3cdlx3yp81oyq0anovh0uvu0uc/K27KE275AB.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/d25/jj0vcco5183q8d664nsgxlemlofae4tf/1266_1535_2/wthWxyPg02.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/ac3/60swg7h9hnw0ffhrahlcw7hdy2iy96bp/1266_1535_2/YiEoc3gMOq.jpg</picture>
+				<picture>https://vovsuda.com/upload/resize_cache/iblock/84b/1y2x3xbjdf88z3yqp0v519q03nfwcxg9/1266_1535_2/6e592vuQK8.jpg</picture>
+				<name>Юбка макси</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-maksilbm/</url>
+				<price>15770</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Лаконичная юбка макси из плотного тяжелого материала с добавлением вискозы, на поясе и молнией сбоку. Эффектно струится за счет силуэта «колокол». Стилизуйте эту модель для вечерних и дневных образов шелковой полупрозрачной юбкой из VOVSUDA | Resort’24</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="RSRT24-SK8">
+				<picture>https://vovsuda.com/upload/iblock/8ea/zkqfggidhoooudcu3isyzzoy6avvmtfs/NvjwRmDg1o.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/202/pc9bhxqgu83zcf13o8wjdrg7pmahv985/fB5R41wlkO.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/2ea/upyeoog5uli7qk6gox6wxmyhghq3b415/FqdE01lpz3.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/2e5/u1qg2qej509yh8eqoptcibh9b346ldd8/Sf5Fg4oGkl.jpeg</picture>
+				<picture>https://vovsuda.com/upload/iblock/4b8/yc4ap2xc9b35if2d6uuv3c89pznhu6fj/I5hH0N88uz.jpeg</picture>
+				<name>Юбка миди с боковым разрезом из тонкой шерсти</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-midi-s-bokovym-razrezom-iz-tonkoy-shersti/</url>
+				<price>12990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Идеальная юбка миди из тонкой шерсти с добавлением эластана. Модель на высокой посадке с поясом, с боковыми карманам и боковым разрезом. Сочетайте с жилетом из такой же ткани и рубашкой для создания делового образа, или с футболкой и кедами для более расслабленного.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="SS24-48SK">
+				<picture>https://vovsuda.com/upload/iblock/88f/3jqis3lbilh5yrmak05dtnpmii2jh9ns/prXipoFnye.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/f99/g1axnhc9vyem93t0tun38zvqooq2wtss/oMB8w7lNXc.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/750/3w61885kunyyrq2fv6s912zc6qviipal/u5GY1zrQMx.jpg</picture>
+				<name>Юбка миди с боковым разрезом</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-midi-s-bokovym-razrezom/</url>
+				<price>8290</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Идеальная базовая юбка миди с боковым разрезом. Модель на высокой посадке с поясом. Изготовлена из плотной вискозы с добавлением эластана, создает утонченный и лаконичный образ. Отлично сочетается с укороченным топом из нашей коллекции или шелковой блузкой молочного цвета.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="FW23-41SK">
+				<picture>https://vovsuda.com/upload/iblock/f95/pr0zppb5su063lvaktd9n0b84k30fv0j/20v1tHPa21.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/8a7/0pwo81b10rlaltcntkdpfdofw8ovcf1i/h5c1NPhF4r.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/104/vxvhkjdg7o3s2mbq6fnvu082yv3rz2qd/X1jYR4jnSC.jpg</picture>
+				<name>Юбка с пайетками макси</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-s-payetkami-maksi/</url>
+				<price>17300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Юбка с пайетками — отличный вариант для вечернего выхода или вечеринки. Выполнена из легкой и приятной вискозы с мягкой и приятной подкладкой. Сочетайте юбку с шелковой блузкой или футболкой, создавая свой уникальный образ.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="FW23-37SK">
+				<picture>https://vovsuda.com/upload/iblock/e13/hozq8tff08m3wqk4vqftotp59lcpjcpu/vUzNAQCOBZ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/97d/dyzna75iilxfx7z1l0ydgdpmttemu623/jS6EK2qBsw.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/38d/m9l4wp2dpz3m8xpf5mjhb50kv69oyise/00x9k3c4pO.jpg</picture>
+				<name>Юбка макси на высокой посадке</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-maksi-na-vysokoy-posadke/</url>
+				<price>11990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Вечерняя юбка макси с высокой посадкой на поясе – настоящая находка для особых событий. Изготовлена из струящейся графитовой ткани с благородным блеском, она придает образу изысканности и элегантности. Шлица сзади добавляет долю соблазнительности. Идеально сочетается с блузкой из той же ткани, создавая утонченный вечерний костюм.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+			<offer available="true" id="F23-13SK">
+				<picture>https://vovsuda.com/upload/iblock/1fe/13b3886jqhj2rk0sexiw7ui3i8b1ltb0/n6Q62yJxy2.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/e51/9xzjtsmsjkh3col1faf84em9kv32vajh/dTmhtEzmyJ.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/566/wddmyskut5uhvnh70y91381n7oii32dd/kuJDzkn0wX.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/837/c4yxlu000lhyc5vgezdf49sjmbylqnkd/sirUO1bJy4.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/27b/u0u7mktx5jkfoflms4sm28ucmbb8s4cd/m1zE3gS49k.jpg</picture>
+				<picture>https://vovsuda.com/upload/iblock/6c6/aiy2g2e2zqc5io2xp014cwh6ddzjcs3i/f1UwIX84bW.jpg</picture>
+				<name>Юбка миди прямого силуэта</name>
+				<url>https://vovsuda.com/catalog/yubki/yubka-midi-pryamogo-silueta/</url>
+				<price>12700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>9</categoryId>
+				<description>Юбка миди Юбка идеальной длины: вытягивает силуэт и стройнит щиколотку. — Благородный серый цвет и безупречный крой; — Плотная ткань с подкладкой: комфортно даже в холодную погоду; — Пояс юбки оснащен хлястиком, а застежка скрыта притачным поясом — Эстетично как с ремнем, так и без.</description>
+				<param name="Пол">Женский</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
